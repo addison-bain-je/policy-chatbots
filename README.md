@@ -11,6 +11,15 @@ Chatbots to answer employee questions, based on policy documents uploaded to Sha
 <br>3.  Create Search Index (empty structure) on Azure AI Search
 <br>4.  Create and run Search Indexer on Azure AI search (with scheduler for first-time)
 <br>5.  Get Indexer status and check search index
+
+<br>Finance SOP API Documentation
+<br>
+https://web.postman.co/workspace/2cc7da80-fdce-4284-8a32-22af6a60d5cf/documentation/34781301-acf61f11-fbcf-4259-80fa-d8d5b627ce52
+<br>HR Policies API Documentation
+<br>
+https://web.postman.co/workspace/2cc7da80-fdce-4284-8a32-22af6a60d5cf/documentation/34781301-6141cc74-2cc6-4bcd-b967-edadb1c93e5c
+
+<br>
 <br>
 #Azure AI Studio  
 <br>6. In Azure AI Studio chatplayground, connect to Search Index and deployed Azure OpenAI model (GPT 4-32k or GPT4o
